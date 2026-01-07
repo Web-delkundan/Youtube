@@ -10,7 +10,7 @@
 *.log
 # Temporary files
 *.tmp
-*~
+
 
 *.bak
 # Environment files (containing secrets, API keys, credentials)
@@ -61,7 +61,6 @@ pids
 # Package management
 
 .npm
-package-lock.json
 yarn.lock
 .yarn-integrity
 .yarn/cache
