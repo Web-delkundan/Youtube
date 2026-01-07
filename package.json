@@ -8,6 +8,8 @@
     "dev": "nodemon src/index.js"
   },
   "author": "kundan",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.7.4"
+  }
 }
-       
